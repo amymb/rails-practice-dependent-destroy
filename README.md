@@ -16,4 +16,4 @@ Note: email/password combinations for existing users populated by `rake db:seed`
 ## Stories
 
 * Figure out where you should put dependent destroy and put it there.
-* Add the appropraite destroy links
+* Add the appropriate destroy links
